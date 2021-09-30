@@ -1,3 +1,5 @@
+#sum and average of the 5 numbers.
+
 list=[]
 for i in range(5):
     numbers = int(input("Enter the numbers:"))

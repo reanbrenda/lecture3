@@ -1,3 +1,4 @@
+
 def factor():
     n=int(input("please enter a whole number:"))
     fact=1
